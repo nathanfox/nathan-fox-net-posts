@@ -6,7 +6,7 @@ In modern software development, one of the most persistent challenges is the gap
 
 This post explores how to leverage Generative AI (GenAI) to build and maintain a rapid prototyping system that solves this problem. We'll discuss a pattern that separates prototype components from production code while maintaining synchronization between them, allowing teams to validate user experiences early and iterate quickly without the constraints of production systems.
 
-> **Working Example**: Check out the [rapid-ui-prototype-example](https://github.com/nathanfox/rapid-ui-prototype-example) repository for a complete Nuxt.js implementation following this design pattern. Both this repository and the blog post (available at [nathan-fox-net-posts](https://github.com/nathanfox/nathan-fox-net-posts/blob/develop/ai-genai/genai-rapid-prototyping-system.md)) can be referenced by your GenAI agent to guide implementation in your codebase.
+> **Working Example**: Check out the [rapid-ui-prototype-example](https://github.com/nathanfox/rapid-ui-prototype-example) repository for a complete Nuxt.js implementation following this design pattern. Both this repository and the blog post (available at [nathan-fox-net-posts](https://github.com/nathanfox/nathan-fox-net-posts/blob/develop/development-practices/genai-rapid-prototyping-system.md)) can be referenced by your GenAI agent to guide implementation in your codebase.
 
 ## The Problem: Late-Stage UI Discoveries
 
