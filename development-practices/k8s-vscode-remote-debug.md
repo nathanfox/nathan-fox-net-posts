@@ -18,15 +18,16 @@ Developers often resort to excessive logging or struggle with complicated port-f
 
 k8s-vscode-remote-debug provides ready-to-use debugging configurations and examples for multiple programming languages and frameworks, enabling developers to debug Kubernetes pods as if they were running locally. The repository includes working examples for:
 
-- C# (.NET 8 WebAPI)
-- F# (Giraffe on .NET 8)
-- Node.js (Express)
-- Python (FastAPI)
-- Go (Gin)
-- Java (Spring Boot)
-- Rust (Actix Web)
+- **[C# .NET 8 Web API](https://www.nathanfox.net/p/remote-debugging-c-net-8-web-apis)** - Remote debugging with vsdbg using kubectl exec
+- **[F# Giraffe](https://www.nathanfox.net/p/remote-debugging-f-giraffe-applications)** - Functional programming debugging with vsdbg
+- **[Node.js Express](https://www.nathanfox.net/p/remote-debugging-nodejs-express-applications)** - Inspector Protocol debugging with port-forwarding
+- **[Python FastAPI](https://www.nathanfox.net/p/remote-debugging-python-fastapi-applications)** - Async debugging with debugpy
+- **[Go Gin](https://www.nathanfox.net/p/remote-debugging-go-gin-applications)** - Delve debugger with goroutine inspection
+- **[Java Spring Boot](https://www.nathanfox.net/p/remote-debugging-java-spring-boot)** - JDWP debugging for enterprise Java
+- **[Rust Actix](https://www.nathanfox.net/p/debugging-rust-actix-applications)** - Structured tracing for async Rust
+- **[Elixir Phoenix](https://www.nathanfox.net/p/remote-debugging-elixir-phoenix-applications)** - Remote - Kubernetes extension for in-pod debugging
 
-Additional frameworks and languages will be added in the future to expand coverage.
+Each blog post provides detailed setup instructions, troubleshooting guides, and language-specific debugging techniques.
 
 Key features:
 - **Per-developer namespace isolation**: Each developer works in their own namespace
