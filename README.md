@@ -8,3 +8,4 @@ This repository contains blog posts for [https://www.nathanfox.net/](https://www
 - **development-practices/** - Software development methodologies and practices
 - **dotnet-fsharp/** - .NET and F# development topics
 - **testing/** - Testing strategies and techniques
+- **apps/** - Applications and tools I've built
