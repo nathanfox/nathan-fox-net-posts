@@ -7,6 +7,7 @@ This document maps local markdown files to their published URLs on www.nathanfox
 | File | URL |
 |------|-----|
 | ai-genai/100k-lines-in-7-months-claude-code.md | https://www.nathanfox.net/p/100000-lines-in-7-months-how-claude-code |
+| ai-genai/learning-languages-frameworks-genai-agents.md | https://www.nathanfox.net/p/comparison-driven-learning-using-genai-agents |
 | ai-genai/170k-lines-of-code-claude-code.md | *Not yet published* |
 | ai-genai/genai-as-structured-data-store.md | https://www.nathanfox.net/p/treating-genai-as-a-structured-data |
 | ai-genai/pattern-driven-development-ai-agents.md | https://www.nathanfox.net/p/example-driven-development-using-ai-agent-claude-code |
