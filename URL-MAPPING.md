@@ -66,6 +66,12 @@ This document maps local markdown files to their published URLs on www.nathanfox
 | k8s-remote-debug/python-fastapi-remote-debugging.md | https://www.nathanfox.net/p/remote-debugging-python-fastapi-applications |
 | k8s-remote-debug/rust-actix-remote-debugging.md | https://www.nathanfox.net/p/debugging-rust-actix-applications |
 
+## Flutter
+
+| File | URL |
+|------|-----|
+| flutter/share-plus-ios26-crash-fix.md | https://www.nathanfox.net/p/flutter-share_plus-crash-on-ios-26 |
+
 ## Testing
 
 | File | URL |
