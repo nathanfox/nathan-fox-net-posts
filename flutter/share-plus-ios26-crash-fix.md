@@ -33,7 +33,7 @@ If you don't provide a valid non-zero rect, the share sheet crashes with a `Plat
 
 ## Why Testing Didn't Catch It
 
-I had both HayTracker and PropaneTracker in the App Store and Google Play with working export functionality. I tested extensively before release:
+I had both HayTracker and PropaneTracker in the App Store and Google Play with working export functionality. I tested before release:
 
 - AirDropped exports from both apps to my MacBook
 - Saved exports directly on my development iPhone
