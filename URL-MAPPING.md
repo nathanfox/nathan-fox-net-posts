@@ -71,6 +71,7 @@ This document maps local markdown files to their published URLs on www.nathanfox
 
 | File | URL |
 |------|-----|
+| flutter/flutter-secure-storage-macos-34018-fix.md | https://www.nathanfox.net/p/flutter-secure-storage-on-macos |
 | flutter/share-plus-ios26-crash-fix.md | https://www.nathanfox.net/p/flutter-share_plus-crash-on-ios-26 |
 
 ## Testing
