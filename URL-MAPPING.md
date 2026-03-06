@@ -24,6 +24,8 @@ This document maps local markdown files to their published URLs on www.nathanfox
 |------|-----|
 | apps/devhours-time-tracking-for-developers.md | https://www.nathanfox.net/p/devhours-a-time-tracking-app |
 | apps/haytracker-hay-inventory-tracking.md | https://www.nathanfox.net/p/haytracker-planning-driven-development |
+| apps/claw-command-multi-agent-command-center.md | https://www.nathanfox.net/p/claw-command-openclaw-command-center |
+| apps/mystery-by-mystery-rosary-prayer-companion.md | https://www.nathanfox.net/p/mystery-by-mystery-a-rosary-prayer-companion |
 | apps/propanetracker-propane-tank-monitoring.md | https://www.nathanfox.net/p/propanetracker-from-planning-doc-to-working-app-90-minutes |
 
 ## Development Practices
@@ -96,6 +98,20 @@ This document maps local markdown files to their published URLs on www.nathanfox
 | iOS App Store | https://apps.apple.com/us/app/haytracker/id6757104455 |
 | Google Play | https://play.google.com/store/apps/details?id=com.codepasture.haytracker |
 
+### Claw Command
+| Store | URL |
+|-------|-----|
+| iOS App Store | https://apps.apple.com/us/app/claw-command/id6759220612 |
+| Google Play | https://play.google.com/store/apps/details?id=com.codepasture.claw_command |
+| Windows & Linux | https://github.com/codepasture/claw-command-releases/releases |
+
+### Mystery by Mystery
+| Store | URL |
+|-------|-----|
+| iOS App Store | https://apps.apple.com/us/app/mystery-by-mystery/id6759494975 |
+| Google Play | https://play.google.com/store/apps/details?id=com.codepasture.mystery_by_mystery |
+| Windows & Linux | https://github.com/codepasture/mystery-by-mystery-releases/releases |
+
 ### PropaneTracker
 | Store | URL |
 |-------|-----|
@@ -104,4 +120,4 @@ This document maps local markdown files to their published URLs on www.nathanfox
 
 ---
 
-*Last updated: January 2026*
+*Last updated: March 2026*
