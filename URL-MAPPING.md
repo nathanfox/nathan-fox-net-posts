@@ -27,6 +27,7 @@ This document maps local markdown files to their published URLs on www.nathanfox
 | apps/claw-command-multi-agent-command-center.md | https://www.nathanfox.net/p/claw-command-openclaw-command-center |
 | apps/mystery-by-mystery-rosary-prayer-companion.md | https://www.nathanfox.net/p/mystery-by-mystery-a-rosary-prayer-companion |
 | apps/propanetracker-propane-tank-monitoring.md | https://www.nathanfox.net/p/propanetracker-from-planning-doc-to-working-app-90-minutes |
+| apps/thornguard-pure-dart-game-engine.md | https://www.nathanfox.net/p/thornguard-my-first-mobile-game |
 
 ## Development Practices
 
