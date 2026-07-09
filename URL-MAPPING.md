@@ -17,6 +17,7 @@ This document maps local markdown files to their published URLs on www.nathanfox
 | ai-genai/taming-genai-agents-with-tdd.md | https://www.nathanfox.net/p/taming-genai-agents-like-claude-code |
 | ai-genai/the-programmer-identity-crisis.md | https://www.nathanfox.net/p/the-programmer-identity-crisis |
 | ai-genai/ai-didnt-change-anything-except-everything.md | https://www.nathanfox.net/p/ai-didnt-change-anything-except-everything |
+| ai-genai/managing-my-resume-with-claude-code.md | https://www.nathanfox.net/p/resume-as-code-how-i-manage-my-resume |
 
 ## Apps
 
