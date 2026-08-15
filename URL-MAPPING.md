@@ -48,6 +48,7 @@ This document maps local markdown files to their published URLs on www.nathanfox
 | development-practices/kubectl-setup-ubuntu-productivity.md | https://www.nathanfox.net/p/kubectl-setup-on-ubuntu-installation |
 | development-practices/nginx-dev-gateway-kubernetes-development.md | https://www.nathanfox.net/p/nginx-dev-api-gateway-simplifying-kubernetes |
 | development-practices/project-planning-darth-vader-style.md | https://www.nathanfox.net/p/the-dark-side-of-project-planning |
+| development-practices/sqlpod-safe-database-access-for-ai-agents.md | https://www.nathanfox.net/p/sqlpod-safe-database-access-for-ai |
 
 ## .NET/F#
 
